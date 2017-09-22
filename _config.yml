@@ -1,21 +1,22 @@
+
 title: My Resume
 url: 'http://junlulocky.com'
-baseurl: '/Taher-Ghaleb' #change it according to your repository name
+baseurl: '/PanelCV' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Taher Ahmed Ghaleb  ## put your name
-title: 'Doctoral Student at Queen's  ## your title
-location: Kingston, Ontario, Canada
+yourname: Brown Smith  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: San Francisco , CA
 
 
 ## Social Profiles
-facebook: https://www.Facebook.com/Taherco  ## your facebook account url
-twitter: https://twitter.com/Taherco  ## your twitter account url
-linkedin: https://www.linkedin.com/in/Taherco  ## your linkedin account url
-scholar: https://scholar.google.com/citations?user=5EBfu-0AAAAJ  ## you scholar account url
-reasearchgate: http://www.researchgate.net/profile/Taher_Ghaleb  ## your reasearchgate account url
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
