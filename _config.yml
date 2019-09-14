@@ -1,0 +1,23 @@
+
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/Taher-Ghaleb' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Taher Ahmed Ghaleb  ## put your name
+title: 'Ph.D. Candidate at Queen&rsquo;s'  ## your title
+location: Kingston, Ontario, Canada
+
+
+## Social Profiles
+facebook: https://www.Facebook.com/Taherco  ## your facebook account url
+twitter: https://twitter.com/Taherco  ## your twitter account url
+linkedin: https://www.linkedin.com/in/Taherco  ## your linkedin account url
+googlescholar: https://scholar.google.com/citations?user=5EBfu-0AAAAJ  ## you dribbble account url
+researchgate: http://www.researchgate.net/profile/Taher_Ghaleb  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
